@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @MaxEAE
+- 🏳 I’m french and i learning English language
+- 🌱 I’m currently learning Java-Script and Html, css
+- 💞️ I’m looking to collaborate on discord bot developpement V12
+- 📫 You can contact me here :
+-  Discord ❯ MaxEAE#0001
+-  Email ❯ maxeae.gfx@gmail.com
+-  Instagram ❯ [MaxEAE_](https://instagram.fr/maxeae_)
+- Last Project : [Le Palais Fruité](https://lepalaisfruite.fr)
