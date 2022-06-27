@@ -1,24 +1,32 @@
-### Langages et logiciels:
+<p align="center"> <img src="https://cdn.discordapp.com/attachments/983854913475989524/990752889502830612/unknown.png" alt="maxeae" /></a> </p>
 
-<img align="left" alt="Visual Studio Code" width="40px" src="https://i.imgur.com/LwSdAlE.png" />
-<img align="left" alt="djs" width="40px" src="https://jasonhaxstuff.gallerycdn.vsassets.io/extensions/jasonhaxstuff/discord-js-tools/0.0.3/1530824658924/Microsoft.VisualStudio.Services.Icons.Default" />
-<img align="left" alt="js" width="40px" src="https://i.imgur.com/3u1wzwE.png" />
-<br/>
+<h1 align="center">Heyy 👋, Je suis Ambrouu</h1>
+<h3 align="center">Passionné dans le développement de bot discord et autre.</h3>
 
----
-### Profil Discord:
+- 🔭 Depuis peu j'aide au développement de [Site23 - Utils](https://site-23.fr)
+
+- 🤝 J'ai aidé pour le projet de [CraftYourLifeRP](https://craftyourliferp.fr)
+
+- 🍞 Projet de cours [Le Palais Fruité](https://lepalaisfruite.fr)
+
+- <img align="center" src="https://cdn.discordapp.com/attachments/988193381308051596/990763838758600764/620827756653051914.webp" alt="eaemaxime_" height="20" width="20" /> Le JavaScript est mon language principal</a>
+
+<h3 align="left">Mon Discord</h3>
 <table>
  <thead>
-     	<td align="center"><a href="https://github.com/MaxEAE"><img src="https://cdn.discordapp.com/attachments/949974355666931763/967554423133978714/Capture_decran_2022-04-18_233157.png" width="100px;" alt=""/><br /><sub><b>Ambre#1348</b></sub></a><br /></td>
+     	<td align="center"><a href="https://github.com/MaxEAE"><img src="https://cdn.discordapp.com/avatars/420677579645779978/cc53501f34bedd273c00401c71b242df.png?size=1024" width="100px;" alt=""/><br /><sub><b>Ambre👑#0001</b></sub></a><br /></td>
   </thead>
 </table>
 
----
-### Projets:
- -  <img align="left" alt="Instagram" width="26px" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" /> [lepalaisfruite_](https://www.instagram.com/lepalaisfruite_/)
+<h3 align="left">Mes Réseaux Sociaux:</h3>
+<p align="left"> <a href="https://twitter.com/eaemaxime_" target="blank"><img src="https://img.shields.io/twitter/follow/eaemaxime_?logo=twitter&style=for-the-badge" alt="eaemaxime_" /></a> </p>
+<p align="left">
+<a href="https://twitter.com/eaemaxime_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eaemaxime_" height="30" width="40" /></a>
+<a href="https://instagram.com/lepalaisfruite_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lepalaisfruite_" height="30" width="40" /></a>
+</p>
 
----
-### Contacts:
--  <img align="left" alt="Discord" width="26px" src="https://img.icons8.com/color/48/000000/discord-new-logo.png" /> Ambre#1348
--  <img align="left" alt="Gmail" width="26px" src="https://img.icons8.com/color/48/000000/gmail-login.png" /> maxboplot@gmail.com
-**© [MaxEAE](https://github.com/maxeae)**
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxeae&show_icons=true&locale=fr&layout=compact" alt="maxeae" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxeae&show_icons=true&locale=fr" alt="maxeae" /></p>
+
+
