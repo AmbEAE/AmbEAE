@@ -3,13 +3,13 @@
 <h1 align="center">Heyy 👋, Je suis Ambrouu</h1>
 <h3 align="center">Passionné dans le développement de bot discord et autre.</h3>
 
-- 🔭 Depuis peu j'aide au développement de [Site23 - Utils](https://site-23.fr)
+- 🔭 Depuis peu j'aide au développement de [Site23](https://site-23.fr)
 
 - 🤝 J'ai aidé pour le projet de [CraftYourLifeRP](https://craftyourliferp.fr)
 
 - 🍞 Projet de cours [Le Palais Fruité](https://lepalaisfruite.fr)
 
-- <img align="center" src="https://cdn.discordapp.com/attachments/988193381308051596/990763838758600764/620827756653051914.webp" alt="eaemaxime_" height="20" width="20" /> Le JavaScript est mon language principal</a>
+- 💻 Le JavaScript est mon language principal</a>
 
 <h3 align="left">Mon Discord</h3>
 <table>
@@ -19,7 +19,6 @@
 </table>
 
 <h3 align="left">Mes Réseaux Sociaux:</h3>
-<p align="left"> <a href="https://twitter.com/eaemaxime_" target="blank"><img src="https://img.shields.io/twitter/follow/eaemaxime_?logo=twitter&style=for-the-badge" alt="eaemaxime_" /></a> </p>
 <p align="left">
 <a href="https://twitter.com/eaemaxime_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eaemaxime_" height="30" width="40" /></a>
 <a href="https://instagram.com/lepalaisfruite_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lepalaisfruite_" height="30" width="40" /></a>
