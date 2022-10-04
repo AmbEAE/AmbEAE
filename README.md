@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://cdn.discordapp.com/attachments/983854913475989524/990752889502830612/unknown.png" alt="maxeae" /></a> </p>
+<p align="center"> <img src="https://cdn.discordapp.com/banners/420677579645779978/9516366b2103ab22fe84b5ae5405641c.png?size=4096" alt="banner"/></a> </p>
 
 <h1 align="center">Heyy 👋, Je suis Ambrouu</h1>
 <h3 align="center">Passionné dans le développement de bot discord et autre.</h3>
