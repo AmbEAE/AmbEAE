@@ -11,12 +11,10 @@
 
 - 💻 Le JavaScript est mon language principal</a>
 
-<h3 align="left">Mon Discord</h3>
-<table>
- <thead>
-     	<td align="center"><a href="https://github.com/MaxEAE"><img src="https://cdn.discordapp.com/avatars/420677579645779978/cc53501f34bedd273c00401c71b242df.png?size=1024" width="100px;" alt=""/><br /><sub><b>Ambre👑#0001</b></sub></a><br /></td>
-  </thead>
-</table>
+<h3 align="left">Discord</h3>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/420677579645779978?hideDiscrim=true)](https://discord.com/users/420677579645779978)
+
 
 <h3 align="left">Mes Réseaux Sociaux:</h3>
 <p align="left">
@@ -24,8 +22,8 @@
 <a href="https://instagram.com/lepalaisfruite_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lepalaisfruite_" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxeae&show_icons=true&locale=fr&layout=compact" alt="maxeae" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ambeae&show_icons=true&locale=fr&layout=compact" alt="ambeae" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxeae&show_icons=true&locale=fr" alt="maxeae" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ambeae&show_icons=true&locale=fr" alt="ambeae" /></p>
 
 
