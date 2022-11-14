@@ -1,9 +1,9 @@
-<p align="center"> <img src="https://cdn.discordapp.com/banners/420677579645779978/9516366b2103ab22fe84b5ae5405641c.png?size=4096" alt="banner"/></a> </p>
+<p align="center"> <img src="https://cdn.discordapp.com/banners/420677579645779978/41cac8a52a017ad5b9b3e69c513e4295.png?size=4096" alt="banner"/></a> </p>
 
 <h1 align="center">Heyy 👋, Je suis Ambrouu</h1>
 <h3 align="center">Passionné dans le développement de bot discord et autre.</h3>
 
-- 🔭 Depuis peu j'aide au développement de [Site23](https://site-23.fr)
+- 🔭 Depuis peu j'aide au développement de [Zone-Delta](https://zone-delta.fr)
 
 - 🤝 J'ai aidé pour le projet de [CraftYourLifeRP](https://craftyourliferp.fr)
 
