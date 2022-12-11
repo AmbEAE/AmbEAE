@@ -3,7 +3,9 @@
 <h1 align="center">Heyy 👋, Je suis Ambrouu</h1>
 <h3 align="center">Passionné dans le développement de bot discord, web et autres.</h3>
 
-- 🔭 Depuis peu j'aide au développement de [SIte-33](https://site-33.net/)
+- 🤖Je suis également le co-fondateur de [ZeerBot](https://zeerbot.fr)
+
+- 🔭 Depuis peu j'aide au développement de [Site-33](https://site-33.net/)
 
 - 🤝 J'ai aidé pour le projet de [Zone-Delta](https://zone-delta.fr)
 
