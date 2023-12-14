@@ -1,23 +1,23 @@
-<p align="center"> <img src="https://cdn.discordapp.com/banners/420677579645779978/41cac8a52a017ad5b9b3e69c513e4295.png?size=4096" alt="banner"/></a> </p>
+<p align="center"> <img src="https://cdn.discordapp.com/attachments/968619115998744627/1184889249355542578/a_4e6030cede555b959a40c81513f21caa.gif?ex=658d9d1b&is=657b281b&hm=f9153ab8cc4544b8af7c7017211556ea2164cf63072a3af7d8115aa3553914c7&" alt="banner"/></a> </p>
 
 <h1 align="center">Heyy 👋, Je suis Ambrouu</h1>
 <h3 align="center">Passionné dans le développement de bot discord, web et autres.</h3>
 
-- 🤖Je suis également le co-fondateur de [ZeerBot](https://zeerbot.fr)
+- 🔮 Est autoentrepreneuse pour la société de [CroustyCloud](https://croustycloud.fr/-amb), un hébergement de service de VPS, serveurs de jeu et autres 
 
-- 🔭 Depuis peu j'aide au développement de [Site-33](https://site-33.net/)
+- 🤖 A co-fondé [ZeerBot](https://zeerbot.fr), un ancien bot multifonction complet avec un panel
 
-- 🤝 J'ai aidé pour le projet de [Zone-Delta](https://zone-delta.fr)
+- 🤝 A aidé pour le projet de [Zone-Delta](https://zone-delta.xyz) dans la branche de Développement et de Modération et d'animation de la radio
 
-- 🤝 J'ai aidé pour le projet de [Site-23](https://zone-delta.fr)
+- 🤝 A aidé pour le projet de [Site-23](https://site-33.net) dans la branche de Développement et de Modération
 
-- 🤝 J'ai aidé pour le projet de [CraftYourLifeRP](https://craftyourliferp.fr)
+- 🤝 A aidé en tant que Responsable Modération et dans le développement de bot discord de [CraftYourLifeRP](https://craftyourliferp.fr)
 
 - 🍞 Ancien projet de cours [Le Palais Fruité](https://www.instagram.com/lepalaisfruite_)
 
 - 💻 Le JavaScript est mon language principal
 
-- 🖥️ J'ai déjà pu travailler sur d'autres languages comme le Python, le CSS, le HTML mais encore le JAVA </a>
+- 🖥️ J'ai déjà pu travailler sur d'autres languages comme le Python, le CSS, le PHP, le HTML et CSS mais encore le JAVA </a>
 
 <h3 align="left">Discord</h3>
 
