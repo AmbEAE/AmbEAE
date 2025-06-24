@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/968619115998744627/1184889249355542578/a_4e6030cede555b959a40c81513f21caa.gif" alt="banner"/>
+  <img src="https://avatars.githubusercontent.com/u/70550308?v=4" alt="Ambrouu" width="130" style="border-radius: 50%;" />
 </p>
 
-<h1 align="center">Salut 👋, je suis Ambre (alias Ambrouu)</h1>
+<h2 align="center">Salut 👋, je suis <strong>Ambre</strong> (alias <code>Ambrouu</code>)</h2>
 <h3 align="center">💡 Développeuse passionnée — Web, Discord, Minecraft, Hébergement</h3>
 
 <p align="center">
