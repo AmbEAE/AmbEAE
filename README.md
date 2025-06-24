@@ -1,24 +1,89 @@
-<p align="center"> <img src="https://cdn.discordapp.com/attachments/968619115998744627/1184889249355542578/a_4e6030cede555b959a40c81513f21caa.gif?ex=658d9d1b&is=657b281b&hm=f9153ab8cc4544b8af7c7017211556ea2164cf63072a3af7d8115aa3553914c7&" alt="banner"/></a> </p>
 
-<h1 align="center">Heyy 👋, Je suis Ambrouu</h1>
-<h3 align="center">Passionné dans le développement de bot discord, web et autres.</h3>
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/968619115998744627/1184889249355542578/a_4e6030cede555b959a40c81513f21caa.gif" alt="banner"/>
+</p>
 
-- 🔮 Est autoentrepreneuse pour la société de [CroustyCloud](https://croustycloud.fr/-amb), un hébergement de service de VPS, serveurs de jeu et autres 
+<h1 align="center">Salut 👋, je suis Ambre (alias Ambrouu)</h1>
+<h3 align="center">💡 Développeuse passionnée — Web, Discord, Minecraft, Hébergement</h3>
 
-- 🤖 A co-fondé [ZeerBot](https://zeerbot.fr), un ancien bot multifonction complet avec un panel
+<p align="center">
+  <a href="https://ambrouw.fr/"><img src="https://img.shields.io/badge/Portfolio-ambrouw.fr-%237755AA?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+  <a href="https://croustycloud.fr/-amb"><img src="https://img.shields.io/badge/CroustyCloud-Hébergement%20VPS-%23008988?style=for-the-badge&logo=cloudflare&logoColor=white"/></a>
+  <a href="https://craftyourliferp.fr"><img src="https://img.shields.io/badge/Serveur-CraftYourLifeRP-%23008888?style=for-the-badge&logo=minecraft&logoColor=white"/></a>
+  <a href="https://discord.com/users/420677579645779978"><img src="https://img.shields.io/badge/Discord-%40ambrouw-%235865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</p>
 
-- 🤝 A aidé pour le projet de [Zone-Delta](https://zone-delta.xyz) dans la branche de Développement et de Modération et d'animation de la radio
+---
 
-- 🤝 A aidé pour le projet de [Site-23](https://site-33.net) dans la branche de Développement et de Modération
+### 🚀 Qui suis-je ?
 
-- 🤝 A aidé en tant que Responsable Modération et dans le développement de bot discord de [CraftYourLifeRP](https://craftyourliferp.fr)
+- 🎯 Fondatrice de [**CroustyCloud**](https://croustycloud.fr/-amb) — hébergement de **VPS**, **serveurs de jeu** et **services personnalisés**
+- 🛠️ Présidente et lead dev de [**Minelaunched SAS**](https://minelaunched.fr) — création de launchers Minecraft custom
+- 💬 Spécialiste des bots Discord, dashboards web, API sécurisées, et gestion d’infrastructure
+- 🎙️ Active dans plusieurs projets communautaires :  
+  [Zone-Delta](https://zone-delta.xyz), [Site-23](https://site-33.net), [CraftYourLifeRP](https://craftyourliferp.fr)
+- 🍓 Projet étudiant créatif : [Le Palais Fruité](https://www.instagram.com/lepalaisfruite_) (boulangerie fictive)
 
-- 🍞 Ancien projet de cours [Le Palais Fruité](https://www.instagram.com/lepalaisfruite_)
+---
 
-- 💻 Le JavaScript est mon language principal
+### 💻 Stack & Compétences
 
-- 🖥️ J'ai déjà pu travailler sur d'autres languages comme le Python, le CSS, le PHP, le HTML et CSS mais encore le JAVA </a>
+```js
+const mainStack = ["JavaScript", "Node.js", "HTML", "CSS", "PHP", "Java"];
+const alsoKnow = ["Python", "SQL", "EJS", "Vue", "Electron"];
+const tools = ["Pterodactyl", "Helios", "Nebula", "Forge", "NeoForge"];
+```
 
-<h3 align="left">Discord</h3>
+---
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/420677579645779978?hideDiscrim=true)](https://discord.com/users/420677579645779978)
+### 📦 Projets notables
+
+* 🛠️ **Minelaunched** – plateforme de création de launchers Minecraft custom
+* ☁️ **CroustyCloud** – services d'hébergement Linux, Pterodactyl, backups
+* 🔗 **Bots Discord** – dashboards Node.js, WebSocket, gestion multi-serveurs
+* 🎮 **CraftYourLifeRP** – développement complet (Java, mods, sécurité)
+* 🎤 **Zone-Delta Radio** – animation radio, modération, automatisation
+
+---
+
+### 📊 Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmbEAE&show_icons=true&theme=tokyonight&hide=contribs" alt="Stats GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmbEAE&layout=compact&theme=tokyonight" alt="Top Langs">
+</p>
+
+---
+
+### 🌐 Discord Live Status
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/420677579645779978?hideDiscrim=true\&idleMessage=En%20veille...)](https://discord.com/users/420677579645779978)
+
+---
+
+### 🧠 Fun terminal
+
+```js
+> ./ambrouu.sh
+
+💻 JavaScript      🟢🟢🟢🟢🟢🟢
+💻 HTML/CSS        🟢🟢🟢🟢🟢
+💻 PHP             🟢🟢🟢🟢
+💻 Java (Minecraft)🟢🟢🟢🟢🟢
+💻 Electron        🟢🟢🟢
+💻 Discord Bots    🟢🟢🟢🟢🟢🟢
+📡 API & WebSocket 🟢🟢🟢🟢🟢
+
+🎯 Objectif : Toujours plus de projets cools et propres !
+```
+
+---
+
+### 📫 Contact
+
+* 🌐 Site pro : [ambrouw.fr](https://ambrouw.fr/)
+* 📬 Mail : *amb@ambrouw.fr*
+* 🛠️ Discord : `@ambrouw`
+* 💼 Freelance & collabs : *ouvertes via DM Discord*
+
+---
